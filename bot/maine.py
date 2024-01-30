@@ -99,4 +99,4 @@ async def recikle(ctx):
         picture = discord.File(f)
     await ctx.send(file=picture)
 
-bot.run("MTE4OTk0MDE3MzUzMDczMDYzOA.GTbjJJ.x_CNOLaD_6zlT-jm0KOGWAyaHysfsa-OtvZgj8")
+bot.run("")
